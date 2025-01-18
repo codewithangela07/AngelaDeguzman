@@ -31,7 +31,6 @@ Collaborate with other developers and designers
 Build innovative, user-centric applications
 
 ---
-
 ### Skills
 
 ```
