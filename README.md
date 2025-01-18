@@ -16,14 +16,14 @@ Bootstrap
 Android Studio
 Figma
 
----
+
 
 ### 🌱 I’m currently learning:
 Web performance optimization
 UI/UX design principles
 Mobile app development
 
----
+
 
 ### 📈 My Goals:
 Contribute to open-source projects
