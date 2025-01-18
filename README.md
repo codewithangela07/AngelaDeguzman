@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a web designer and developer passionate about creating
 * ✉️  You can contact me at [dens.angela.dgzman@gmail.com](mailto:dens.angela.dgzman@gmail.com)
 * 🧠  I'm learning UI/UX, Web development, SEO, Azure Directory
 
-###🔧 Technologies I Work With:
+### 🔧 Technologies I Work With:
 WordPress
 Bootstrap
 Android Studio
