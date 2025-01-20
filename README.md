@@ -11,10 +11,15 @@ Welcome to my GitHub! I'm a web designer and developer passionate about creating
 
 ### 🔧 Technologies I Work With:
 
-WordPress
-Bootstrap
-Android Studio
-Figma
+- WordPress
+- Bootstrap
+- Android Studio
+- Figma
+- Shopify
+- Visual Code
+- Sublime Text
+- Dev-C++
+- Oracle VirtualBox
 
 <br>
 
