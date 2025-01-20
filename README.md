@@ -24,9 +24,12 @@ Welcome to my GitHub! I'm a web designer and developer passionate about creating
 <br>
 
 ### 🌱 I’m currently learning:
-Web performance optimization
-UI/UX design principles
-Mobile app development
+- Web performance optimization
+- UI/UX design principles
+- Mobile app development
+- Web Development
+- Azure Directory
+- Active Directory
 
 <br>
 
